@@ -2,7 +2,7 @@
  
 <a href="https://play.google.com/store/apps/details?id=com.yuriycode.moviesapp"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=70px /></a> 
  
-My application BestMovies displays a list of popular movies and serials for all! The data is pulled up with the help of api, you can find out information about any movie / series you are interested in and see up-to-date information.
+My application BestMovies displays a list of popular movies and serials for all! The data is pulled up with the help of api, you can find out information about any movie / series you are interested in and see up-to-date information. You can download it on Play Market right now!
 
 ## How to open the project?
 
