@@ -25,7 +25,6 @@ All what you need to run the project is to clone the repository to your device a
 * [Navigation Compose](https://developer.android.com/jetpack/compose/navigation) 
 * [Retrofit](https://square.github.io/retrofit/)
 * [Coil](https://coil-kt.github.io/coil/compose/)
-* [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 * [MVVM](https://developer.android.com/jetpack/docs/guide)   
 
 ## Liked this repository? :)
